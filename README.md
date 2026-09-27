@@ -2,6 +2,9 @@
 
 # ⚡ JARVIS — Personal High-Performance OS
 
+> ⚠️ **Project status:** Architecture/prototype scaffold. The README describes the intended system design; several modules are still being implemented and the repository should not be interpreted as a completed production system.
+
+
 **Un ecosistema proactivo y contenerizado de gestión de vida, impulsado por agentes de inteligencia artificial y memoria relacional a largo plazo.**
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
